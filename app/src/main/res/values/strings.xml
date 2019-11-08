@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">amst_l1_sanchez_espolservicios</string>
+    <string name="sidweb">Sidweb</string>
+    <string name="academic_system">Sistema Academico</string>
+    <string name="society_links">Vinculos con la sociedad</string>
+    <string name="student_heal">Bienestar Estudiantil</string>
+    <string name="sidweb_description">El sidweb es un servicio que provee ESPOL para el envio de tareas y leccions, desarrollado por CTI.</string>
+    <string name="academic_system_description">El Sistema academico es un servicio de ESPOL desarrollado por GTSI el cual permite el registro de los estudiantes, consulta de calificaciones, consulta de deudas, etc.</string>
+    <string name="society_links_description">El Sistema de vinculos con la sociedad nos ayuda a facilitar el control de las actividades de pasantias profesionales y comunitarias.</string>
+    <string name="student_heal_description">El Sistema de bienestar nos permite sacar cita para los diversos servicios medicos que ofrece ESPOL.</string>
+</resources>
